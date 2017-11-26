@@ -1,5 +1,8 @@
 {
-    "name": "symfony/validator",
+    "name": "symfony@iglue/validator",
+    "replace": {
+        "symfony/validator": "v3.2.13"
+    },
     "type": "library",
     "description": "Symfony Validator Component",
     "keywords": [],
